@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66961e66ee92a98ab9f6d35f"
+  },
+  "jobId": {
+    "$oid": "66961a660427e1b39404dd7e"
+  },
+  "userId": {
+    "$oid": "66949c4974d1c297a808956c"
+  },
+  "userTechnicalSkills": [
+    "React",
+    "js"
+  ],
+  "userSoftSkills": [
+    "Teamwork",
+    "Problem-solving"
+  ],
+  "userResume": "filePdf-1721114214172-530516650",
+  "createdAt": {
+    "$date": "2024-07-16T07:16:54.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T07:16:54.210Z"
+  },
+  "__v": 0
+}]

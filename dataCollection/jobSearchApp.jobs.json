@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "66961a660427e1b39404dd7e"
+  },
+  "jobTitle": "Software Developer",
+  "jobLocation": "remotly",
+  "workingTime": "full-time",
+  "seniorityLevel": "mid-level",
+  "jobDescription": "Develop and maintain software applications, collaborate with cross-functional teams to define, design, and ship new features.",
+  "technicalSkills": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "softSkills": [
+    "Teamwork",
+    "Problem-solving",
+    "Communication"
+  ],
+  "companyId": {
+    "$oid": "66961a030427e1b39404dd7b"
+  },
+  "addedBy": {
+    "$oid": "669618670427e1b39404dd6b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961a850427e1b39404dd81"
+  },
+  "jobTitle": "HR Manager",
+  "jobLocation": "onsite",
+  "workingTime": "full-time",
+  "seniorityLevel": "junior",
+  "jobDescription": "Oversee HR operations, develop and implement HR policies, manage recruitment and employee relations, and ensure compliance with labor laws.",
+  "technicalSkills": [
+    "HR software",
+    "Recruitment",
+    "Employee relations"
+  ],
+  "softSkills": [
+    "Leadership",
+    "Communication",
+    "Conflict resolution"
+  ],
+  "companyId": {
+    "$oid": "66961a030427e1b39404dd7b"
+  },
+  "addedBy": {
+    "$oid": "669618670427e1b39404dd6b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961b140427e1b39404dd85"
+  },
+  "jobTitle": "Data Analyst",
+  "jobLocation": "onsite",
+  "workingTime": "full-time",
+  "seniorityLevel": "team-lead",
+  "jobDescription": "Analyze data sets to identify trends and patterns, prepare reports for management, and provide insights to support business decisions.",
+  "technicalSkills": [
+    "SQL",
+    "Python",
+    "Excel"
+  ],
+  "softSkills": [
+    "Analytical thinking",
+    "Attention to detail",
+    "Time management"
+  ],
+  "companyId": {
+    "$oid": "6696197f0427e1b39404dd76"
+  },
+  "addedBy": {
+    "$oid": "6696183e0427e1b39404dd68"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961b6a0427e1b39404dd88"
+  },
+  "jobTitle": "Project Manager",
+  "jobLocation": "hybrid",
+  "workingTime": "part-time",
+  "seniorityLevel": "junior",
+  "jobDescription": "Manage project timelines, resources, and deliverables, communicate with stakeholders, and ensure projects are completed on time and within budget.",
+  "technicalSkills": [
+    "Project management software",
+    "Agile methodologies",
+    "Budgeting"
+  ],
+  "softSkills": [
+    "Leadership",
+    "Communication",
+    "Organizational skills"
+  ],
+  "companyId": {
+    "$oid": "6696197f0427e1b39404dd76"
+  },
+  "addedBy": {
+    "$oid": "6696183e0427e1b39404dd68"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961bb50427e1b39404dd8b"
+  },
+  "jobTitle": "UX Designer",
+  "jobLocation": "remotly",
+  "workingTime": "part-time",
+  "seniorityLevel": "mid-level",
+  "jobDescription": "Design user interfaces and experiences for web and mobile applications, conduct user research and testing, and work closely with developers and product managers.",
+  "technicalSkills": [
+    "Sketch",
+    "Adobe XD",
+    "User research"
+  ],
+  "softSkills": [
+    "Creativity",
+    "Empathy",
+    "Collaboration"
+  ],
+  "companyId": {
+    "$oid": "6696197f0427e1b39404dd76"
+  },
+  "addedBy": {
+    "$oid": "6696183e0427e1b39404dd68"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961c0f0427e1b39404dd8f"
+  },
+  "jobTitle": "Marketing Specialist",
+  "jobLocation": "onsite",
+  "workingTime": "full-time",
+  "seniorityLevel": "mid-level",
+  "jobDescription": "Develop and implement marketing strategies, conduct market research, and analyze campaign performance to drive business growth.",
+  "technicalSkills": [
+    "SEO",
+    "Google Analytics",
+    "Content marketing"
+  ],
+  "softSkills": [
+    "Creativity",
+    "Communication",
+    "Analytical thinking"
+  ],
+  "companyId": {
+    "$oid": "669619090427e1b39404dd72"
+  },
+  "addedBy": {
+    "$oid": "6695fccf8fcc821a549e14b5"
+  },
+  "__v": 0
+}]

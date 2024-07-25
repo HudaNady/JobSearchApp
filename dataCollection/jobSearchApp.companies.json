@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "669619090427e1b39404dd72"
+  },
+  "companyName": "Tech Innovators",
+  "description": "A leading company in technological innovations and software solutions.",
+  "industry": "Information Technology",
+  "address": "123 Innovation Drive, Tech City, TC 12345",
+  "numberOfEmployees": 13,
+  "companyEmail": "contact@techinnovators.com",
+  "companyHR": {
+    "$oid": "6695fccf8fcc821a549e14b5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696197f0427e1b39404dd76"
+  },
+  "companyName": "Green Earth Solutions",
+  "description": "Sustainable solutions for a greener planet.",
+  "industry": "Environmental Services",
+  "address": "456 Greenway Ave, Eco Town, ET 67890",
+  "numberOfEmployees": 20,
+  "companyEmail": "info@greenearthsolutions.com",
+  "companyHR": {
+    "$oid": "6696183e0427e1b39404dd68"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961a030427e1b39404dd7b"
+  },
+  "companyName": "Health First Corp",
+  "description": "Innovative healthcare services and medical products.",
+  "industry": "Healthcare",
+  "address": "789 Wellness Blvd, Health City, HC 10112",
+  "numberOfEmployees": 12,
+  "companyEmail": "support@healthfirstcorp.com",
+  "companyHR": {
+    "$oid": "669618670427e1b39404dd6b"
+  },
+  "__v": 0
+}]
